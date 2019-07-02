@@ -91,7 +91,7 @@ namespace Barrage.ObjectPool
             for (int i = 0;i < bulletNum; i++)
             {
                 var bullet = BulletList[i];
-                if (bullet.gameObject.activeSelf == false)
+                if (bullet != null && bullet.gameObject.activeSelf == false)
                 {
                     array[supplyNum] = bullet;
                     supplyNum++;
