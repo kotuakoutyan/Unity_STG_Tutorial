@@ -7,7 +7,7 @@
 - [Aim Controller](./Assets/Scripts/AimCamera/AimController.cs)
 - [PlayerRotate](./Assets/Scripts/AimCamera/PlayerRotate.cs)
 - [PlayerController](./Assets/Scripts/SimplePlayer/PlayerController.cs)
-- [DisposableBullet](./Assets/Scripts/SimplePlayer/DisposableBUllet.cs)
+- [DisposableBullet](./Assets/Scripts/SimplePlayer/DisposableBullet.cs)
 
 ## 処理が重たい場合
 - [PostProseccingを無効にする]()
