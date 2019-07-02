@@ -1,0 +1,2 @@
+# Unity_STG_Tutorial
+キャラコンとSTGの簡単なサンプル
