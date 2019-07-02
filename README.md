@@ -5,7 +5,7 @@
 以下が本コンテンツの趣旨になっています。それ以外に関しては、見たい人だけどうぞ。
 
 - [AimController](./Assets/Scripts/AimCamera/AimController.cs)  ：[解説](./Documents/AimController.md)
-- [PlayerRotate](./Assets/Scripts/AimCamera/PlayerRotate.cs)  ：[解説](./Documents/PlayerController.md)
+- [PlayerRotate](./Assets/Scripts/AimCamera/PlayerRotate.cs)  ：[解説](./Documents/PlayerRotate.md)
 - [PlayerController](./Assets/Scripts/SimplePlayer/PlayerController.cs)  ：[解説](./Documents/PlayerController.md)
 - [DisposableBullet](./Assets/Scripts/SimplePlayer/DisposableBullet.cs)  ：[解説](./Documents/DisposableBullet.md)
 
