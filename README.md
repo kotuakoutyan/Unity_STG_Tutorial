@@ -4,10 +4,10 @@
 ## 本コンテンツの趣旨
 以下が本コンテンツの趣旨になっています。それ以外に関しては、見たい人だけどうぞ。
 
-- [Aim Controller](./Assets/Scripts/AimCamera/AimController.cs)
-- [PlayerRotate](./Assets/Scripts/AimCamera/PlayerRotate.cs)
-- [PlayerController](./Assets/Scripts/SimplePlayer/PlayerController.cs)
-- [DisposableBullet](./Assets/Scripts/SimplePlayer/DisposableBullet.cs)
+- [AimController](./Assets/Scripts/AimCamera/AimController.cs)  ：[解説](./Documents/AimController.md)
+- [PlayerRotate](./Assets/Scripts/AimCamera/PlayerRotate.cs)  ：[解説](./Documents/PlayerController.md)
+- [PlayerController](./Assets/Scripts/SimplePlayer/PlayerController.cs)  ：[解説](./Documents/PlayerController.md)
+- [DisposableBullet](./Assets/Scripts/SimplePlayer/DisposableBullet.cs)  ：[解説](./Documents/DisposableBullet.md)
 
 ## 処理が重たい場合
 - [PostProseccingを無効にする]()
@@ -24,10 +24,6 @@ https://raw.githubusercontent.com/neuecc/UniRx/master/LICENSE
 ### ユニティちゃん
 © Unity Technologies Japan/UCL <br>
 http://unity-chan.com/contents/license_jp/
-
-### Dotween
-Copyright (c) 2014 Daniele Giardini - Demigiant <br>
-http://dotween.demigiant.com/license.php
 
 ### Project LayereD
 ![Project_LayereD.jpg](./Assets/Project_LayereD/Project_LayereD.jpg) <br>
