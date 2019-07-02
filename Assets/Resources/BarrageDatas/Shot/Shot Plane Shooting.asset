@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1cc7bb74476ef94c86622845c4943a2, type: 3}
+  m_Name: Shot Plane Shooting
+  m_EditorClassIdentifier: 
+  ShotType: 1
+  BulletNum: 3
+  RandomDiffusion: 0
+  BulletShake: 0
+  AllRangeShotShape: 1
+  GatherAtTarget: 0
+  PassGatherPoint: 0
+  DistanceFromGatherPoint: 0
+  Delay: 0
+  Cycle: 0.05
+  Count: 100
+  AngularSpeed: 360
+  Axis: {x: 0, y: 1, z: 1}

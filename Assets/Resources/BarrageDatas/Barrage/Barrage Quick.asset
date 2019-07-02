@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b296c2e7ead8c4d811e9fa3c76e3dd, type: 3}
+  m_Name: Barrage Quick
+  m_EditorClassIdentifier: 
+  ShotDatas:
+  - {fileID: 11400000, guid: 9fb43be8ba0a92047a4e3ca19bf8b794, type: 2}
+  BulletDatas:
+  - {fileID: 11400000, guid: 41289bd958853a641a7999553ad46234, type: 2}
