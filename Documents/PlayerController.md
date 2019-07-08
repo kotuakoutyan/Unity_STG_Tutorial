@@ -32,6 +32,9 @@ private void Move()
 }
 ```
 
+#### [Transform.TransformDirection](https://docs.unity3d.com/ja/current/ScriptReference/Transform.TransformDirection.html)
+ローカル座標をワールド座標に変換する。MainCameraやCharacterを基準に指定方向を取得するのに便利。個人的には頻出。
+
 
 ## アニメーション
 アニメーションに関するソースコードは以下の部分。

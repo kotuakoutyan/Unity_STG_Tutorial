@@ -33,7 +33,7 @@ private void AimRotate(Vector3 input)
 - Right Horizontal：←→キー、右スティック、マウススクロール
 
 #### [transform.eularAngles](https://docs.unity3d.com/ja/2017.4/ScriptReference/Transform-eulerAngles.html)
-このオブジェクトが向いている方向をオイラー角を返す。今回の例では、X軸の角度を `-60°< x 60°` に収めるために使用している。
+このオブジェクトが向いている方向をオイラー角を返す。今回の例では、X軸の角度を `-60°< x < 60°` に収めるために使用している。
 
 ## 回転中心の追従
 追従に関するソースコードは以下の部分。
