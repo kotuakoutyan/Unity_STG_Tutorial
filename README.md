@@ -12,7 +12,7 @@
 ## 処理が重たい場合
 - [PostProseccingを無効にする](./Documents/PostProseccing.md)
 - [敵の使用する弾幕を薄くする](./Documents/ChangeBarrage.md)
-- [解像度を下げる](./Documents/ChangeBarrage.md)
+- [解像度を下げる](./Documents/ChangeResolution.md)
 
 ## 権利表記
 本制作では以下を使用しています。
